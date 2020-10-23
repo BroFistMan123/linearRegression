@@ -1,2 +1,4 @@
 # linearRegression
-Basic Linear Regression(x and y) given.
+Spare time coding and etc.
+[*]  Linear Regression given X and Y. Tuple-form with graph.
+[]  Linear Regression given X and Y. Dictionary form and CSV.
